@@ -1,4 +1,5 @@
 # testrepo
 Thisisatestrepo
-Just reminding myaelf how to mange code brances in github
+Just reminding myself how to manage code branches in github
 next thing is to create a pr
+corrected mistakes in previous PR
